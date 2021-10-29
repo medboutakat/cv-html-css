@@ -1,0 +1,55 @@
+.page{
+    height: 800px;
+    width: 1000px;
+    border : solid 1 green;
+  color: black;
+  
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 150px;
+    
+   }
+   .bg{
+    height: 800px;
+    width: 1094px;
+    border : solid 1 green;
+  color: black;
+  
+  background-image: url("bg3.png") ;
+  background-repeat: no-repeat;
+
+  background-size: 1094px 900px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 150px;
+    
+   } 
+   .page h1{
+       color: green; 
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
+
+
+   
+   .page p{ 
+    font-size: 25px;
+    text-align: left;
+}  .page img{ 
+
+    width: 600px;
+    height: 300px;
+}
+
+
+
+.menu{ 
+  text-align: left;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: x-large;  
+
+}
+
+.plan li{
+
+  padding: 8px;
+}
